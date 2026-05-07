@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "aQM0XBWgWs0=",
+  "dgSpecHash": "kVbImCrCHpY=",
   "success": true,
   "projectFilePath": "C:\\Users\\Aswin.K\\source\\repos\\UIAutomationCOREUat\\Helpers\\Helpers.csproj",
   "expectedPackageFiles": [
@@ -38,7 +38,14 @@
     "C:\\Users\\Aswin.K\\.nuget\\packages\\reqnroll\\3.3.4\\reqnroll.3.3.4.nupkg.sha512",
     "C:\\Users\\Aswin.K\\.nuget\\packages\\reqnroll.nunit\\3.3.4\\reqnroll.nunit.3.3.4.nupkg.sha512",
     "C:\\Users\\Aswin.K\\.nuget\\packages\\reqnroll.tools.msbuild.generation\\3.3.4\\reqnroll.tools.msbuild.generation.3.3.4.nupkg.sha512",
-    "C:\\Users\\Aswin.K\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+    "C:\\Users\\Aswin.K\\.nuget\\packages\\system.buffers\\4.6.0\\system.buffers.4.6.0.nupkg.sha512",
+    "C:\\Users\\Aswin.K\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\Aswin.K\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Aswin.K\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512",
+    "C:\\Users\\Aswin.K\\.nuget\\packages\\system.threading.channels\\9.0.6\\system.threading.channels.9.0.6.nupkg.sha512",
+    "C:\\Users\\Aswin.K\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.25\\microsoft.windowsdesktop.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\Aswin.K\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\Aswin.K\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.25\\microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512"
   ],
   "logs": []
 }
