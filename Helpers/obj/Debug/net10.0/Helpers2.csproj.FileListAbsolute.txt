@@ -1,0 +1,4 @@
+C:\Users\Aswin.K\source\repos\UIAutomationCOREUat\Helpers2\obj\Debug\net10.0\Helpers2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aswin.K\source\repos\UIAutomationCOREUat\Helpers2\obj\Debug\net10.0\Helpers2.AssemblyInfoInputs.cache
+C:\Users\Aswin.K\source\repos\UIAutomationCOREUat\Helpers2\obj\Debug\net10.0\Helpers2.AssemblyInfo.cs
+C:\Users\Aswin.K\source\repos\UIAutomationCOREUat\Helpers2\obj\Debug\net10.0\Helpers2.csproj.CoreCompileInputs.cache

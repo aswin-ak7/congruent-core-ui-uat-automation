@@ -1,0 +1,8 @@
+C:\Users\Aswin.K\source\repos\UIAutomationCOREUat\Helpers2\obj\Debug\net10.0\Helpers4s.csproj.AssemblyReference.cache
+C:\Users\Aswin.K\source\repos\UIAutomationCOREUat\Helpers2\obj\Debug\net10.0\Helpers4s.ProcessFeatureFileInputs.cache
+C:\Users\Aswin.K\source\repos\UIAutomationCOREUat\Helpers2\obj\Debug\net10.0\Helpers4s.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aswin.K\source\repos\UIAutomationCOREUat\Helpers2\obj\Debug\net10.0\Helpers4s.AssemblyInfoInputs.cache
+C:\Users\Aswin.K\source\repos\UIAutomationCOREUat\Helpers2\obj\Debug\net10.0\Helpers4s.AssemblyInfo.cs
+C:\Users\Aswin.K\source\repos\UIAutomationCOREUat\Helpers2\obj\Debug\net10.0\Helpers4s.csproj.CoreCompileInputs.cache
+C:\Users\Aswin.K\source\repos\UIAutomationCOREUat\Helpers2\obj\Debug\net10.0\NUnit.AssemblyHooks.Helpers4s.cs
+C:\Users\Aswin.K\source\repos\UIAutomationCOREUat\Helpers2\obj\Debug\net10.0\Helpers4s.sourcelink.json

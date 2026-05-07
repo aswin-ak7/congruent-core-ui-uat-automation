@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Company/Company.csproj" Id="70d38239-0cb8-4c7e-a6d3-4b3148ca0a3f" />
+  <Project Path="Helper/Helper.csproj" Id="aa9399dc-520d-42c0-96f9-59bdcbbccde2" />
+  <Project Path="Helpers/Helpers.csproj" Id="7fe9481b-252c-477a-8258-ceba8d0f3aba" />
+  <Project Path="PlanOnBoarding/PlanOnBoarding.csproj" Id="acfc75d3-e796-4e9e-8ba5-d707fd0eb332" />
+</Solution>
