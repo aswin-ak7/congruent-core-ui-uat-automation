@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "IWEsroDCWYI=",
+  "dgSpecHash": "NmJIOStzvac=",
   "success": true,
   "projectFilePath": "C:\\Users\\Aswin.K\\source\\repos\\UIAutomationCOREUat\\PlanOnBoarding\\PlanOnBoarding.csproj",
   "expectedPackageFiles": [
@@ -41,6 +41,8 @@
     "C:\\Users\\Aswin.K\\.nuget\\packages\\microsoft.net.test.sdk\\18.5.1\\microsoft.net.test.sdk.18.5.1.nupkg.sha512",
     "C:\\Users\\Aswin.K\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\Aswin.K\\.nuget\\packages\\microsoft.playwright\\1.59.0\\microsoft.playwright.1.59.0.nupkg.sha512",
+    "C:\\Users\\Aswin.K\\.nuget\\packages\\microsoft.playwright.nunit\\1.59.0\\microsoft.playwright.nunit.1.59.0.nupkg.sha512",
+    "C:\\Users\\Aswin.K\\.nuget\\packages\\microsoft.playwright.testadapter\\1.59.0\\microsoft.playwright.testadapter.1.59.0.nupkg.sha512",
     "C:\\Users\\Aswin.K\\.nuget\\packages\\microsoft.testing.extensions.telemetry\\2.1.0\\microsoft.testing.extensions.telemetry.2.1.0.nupkg.sha512",
     "C:\\Users\\Aswin.K\\.nuget\\packages\\microsoft.testing.extensions.trxreport.abstractions\\2.1.0\\microsoft.testing.extensions.trxreport.abstractions.2.1.0.nupkg.sha512",
     "C:\\Users\\Aswin.K\\.nuget\\packages\\microsoft.testing.extensions.vstestbridge\\2.1.0\\microsoft.testing.extensions.vstestbridge.2.1.0.nupkg.sha512",

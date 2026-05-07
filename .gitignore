@@ -1,0 +1,62 @@
+# Visual Studio
+.vs/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+artifacts/
+
+# NuGet
+packages/
+*.nupkg
+.nuget/
+project.lock.json
+project.fragment.lock.json
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userprefs
+
+# Logs
+*.log
+
+# Test results
+TestResults/
+
+# Playwright
+.playwright/
+playwright-report/
+
+# Node
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Credentials and secrets
+.env
+.env.*
+appsettings.*.json
+
+# Reqnroll / tool generated
+packages.config
+Reqnroll.Tools.MsBuild.Generation.*
+
+# Generated files
+*/Generated/**
+
+# Ignore compiled helpers nuget ref folder
+**/obj/**/ref
