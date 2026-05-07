@@ -10,11 +10,11 @@ using static System.Net.Mime.MediaTypeNames;
 
 namespace PlanOnBoarding.Page
 {
-    public class SaveIncorporationDetails1
+    public class SaveIncorporationDetails
     {
         public IPage _page = GetHelper.Page;
 
-        public SaveIncorporationDetails1(GetHelper helper)
+        public SaveIncorporationDetails(GetHelper helper)
         {
             
 

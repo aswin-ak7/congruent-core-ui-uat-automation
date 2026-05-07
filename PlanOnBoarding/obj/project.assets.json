@@ -4716,11 +4716,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aswin.K\\source\\repos\\UIAutomationCOREUat\\PlanOnBoarding\\PlanOnBoarding.csproj",
+      "projectUniqueName": "D:\\JAM\\PlanOnBoarding\\PlanOnBoarding.csproj",
       "projectName": "PlanOnBoarding",
-      "projectPath": "C:\\Users\\Aswin.K\\source\\repos\\UIAutomationCOREUat\\PlanOnBoarding\\PlanOnBoarding.csproj",
+      "projectPath": "D:\\JAM\\PlanOnBoarding\\PlanOnBoarding.csproj",
       "packagesPath": "C:\\Users\\Aswin.K\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aswin.K\\source\\repos\\UIAutomationCOREUat\\PlanOnBoarding\\obj\\",
+      "outputPath": "D:\\JAM\\PlanOnBoarding\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4741,8 +4741,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Aswin.K\\source\\repos\\UIAutomationCOREUat\\Helpers\\Helpers.csproj": {
-              "projectPath": "C:\\Users\\Aswin.K\\source\\repos\\UIAutomationCOREUat\\Helpers\\Helpers.csproj"
+            "D:\\JAM\\Helpers\\Helpers.csproj": {
+              "projectPath": "D:\\JAM\\Helpers\\Helpers.csproj"
             }
           }
         }

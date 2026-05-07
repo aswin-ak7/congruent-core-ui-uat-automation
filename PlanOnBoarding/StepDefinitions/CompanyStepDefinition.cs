@@ -10,11 +10,11 @@ namespace PlanOnBoarding.StepDefinitions
 {
     [Binding]
 
-    public class CompanyStepDefinition1
+    public class CompanyStepDefinition
     {
-        private readonly SaveIncorporationDetails1 _saveincorporationdetails;
+        private readonly SaveIncorporationDetails _saveincorporationdetails;
 
-        public CompanyStepDefinition1(SaveIncorporationDetails1 saveincorporationdetails)
+        public CompanyStepDefinition(SaveIncorporationDetails saveincorporationdetails)
         {
             _saveincorporationdetails = saveincorporationdetails;
         }
