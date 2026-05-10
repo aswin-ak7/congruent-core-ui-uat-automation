@@ -60,3 +60,4 @@ Reqnroll.Tools.MsBuild.Generation.*
 
 # Ignore compiled helpers nuget ref folder
 **/obj/**/ref
+/PlanOnBoarding/obj/PlanOnBoarding.csproj.nuget.dgspec.json
